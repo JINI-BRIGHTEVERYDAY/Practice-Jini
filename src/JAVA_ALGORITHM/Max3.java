@@ -17,13 +17,10 @@ public class Max3 {
         if (b > max) max = b; //b값이 max보다 크면 max에 b를 넣는다
         if (c > max) max = c; //c값이 max보다 크면 max에 c를 넣는다
 
-        //int max = a;
-        //if (b > max) max = b;
-        //if (c > max) max = c;
-
         //a, b, c의 최댓값을 구하여 max에 대입하기
 
         System.out.println("최댓값은" + max + "입니다.");
     }
 
 }
+
