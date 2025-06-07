@@ -46,3 +46,4 @@ public abstract class SmartDevice implements Controllable{
     // 추상메서드는 출력을 안해도 되지만, 나머지 메서드는 출력을 다 해주어야 한다
 
 }
+// abstract
